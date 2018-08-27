@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyNewUiDesign</string>
+    <string name="drawable_style_and_theme">Drawable, Style and Theme</string>
+    <string name="todo">TODO</string>
+    <string name="button_1">button1</string>
+    <string name="button">Button</string>
+
+</resources>
